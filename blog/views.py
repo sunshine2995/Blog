@@ -3,7 +3,8 @@
 
 import json
 from django.http import JsonResponse
-from django.shortcuts import render, get_object_or_404, reverse
+from django.shortcuts import render, get_object_or_404
+from django.core.urlresolvers import reverse
 from django.conf import settings
 from django.views.decorators.csrf import csrf_exempt
 from blog.models import Article, Category, Comment
