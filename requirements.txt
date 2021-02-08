@@ -18,7 +18,7 @@ enum34==1.1.6
 functools32==3.2.3.post2
 fuzzyfinder==1.0.0
 gunicorn==19.0.0
-httplib2==0.9.1
+httplib2==0.19.0
 ipaddress==1.0.19
 jsonschema==2.6.0
 Markdown==2.6.2
